@@ -1,0 +1,23 @@
+﻿# Windows
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+
+# Логи Docker
+*.log
+
+# Секреты
+bootstrap.json
+
+# Docker volumes
+pg-data/
+minio-data/
+
+# Spark jar-ы
+spark/jars/*.jar
+
+# Python
+__pycache__/
+*.pyc
