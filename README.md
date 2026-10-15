@@ -8,4 +8,4 @@
 
 **Стек:** MinIO + PostgreSQL + Lakekeeper + Trino + Metabase
 
-**Отчёт**
+**Отчёт:** файл с названием ПР-1_ПолковниковМО_ВК
